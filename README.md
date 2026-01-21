@@ -1,6 +1,6 @@
-# Sistema de cadastro de cardápio para restaurantes
+# Sistema de cadastro de cardápio para restaurante  
 
-Aplicativo mobile desenvolvido em **React Native** com **TypeScript** e **Expo**, com persistência de dados local via **SQLite**. O projeto simula um cadastro de cardápio para um restaurante, lista os cardápios e apresenta a tela promoções e a tela home restaurante.
+Aplicativo mobile desenvolvido em **React Native** com **TypeScript** e **Expo**, com persistência de dados local via **SQLite**. O projeto simula um cadastro de cardápio para um restaurante, lista os cardápios e apresenta a tela promoções e a tela home do restaurante.
 
 ## 📌 Visão Geral
 
@@ -12,7 +12,6 @@ O objetivo do projeto é praticar desenvolvimento mobile realista, integrando:
 - UI responsiva com formulários, listas e mapas
 - Boas práticas de arquitetura e separação de responsabilidades
 
-O projeto está **em desenvolvimento**, mas já contém funcionalidades essenciais de cadastro, listagem e navegação.
 
 ## 🛠️ Tecnologias Utilizadas
 
